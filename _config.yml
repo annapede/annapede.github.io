@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "github_photo.jpg"
+  avatar           : "profile.png"
   name             : "Anna Pede"
   pronouns         : #  "she/her"  
   bio              : "Ph.D. Candidate at the Bren School"
