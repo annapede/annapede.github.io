@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Anna Pede"
+title                    : # Anna Pede
 title_separator          : "-"
 name                     : &name "Anna Pede"
 description              : &description "Ph.D. Candidate at UCSB"
