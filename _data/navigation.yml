@@ -12,6 +12,7 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "CV"
-    url: /cv/
+- title: "CV"
+    url: /assets/Anna_Pede_CV_25-5.pdf 
+    external: true  
     
