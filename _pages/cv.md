@@ -1,11 +1,7 @@
 ---
-layout: archive
-title: "CV"
+layout: page
+title: CV
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+redirect_to: /assets/Anna_Pede_CV_25-5.pdf
 ---
-
-{% include base_path %}
 
