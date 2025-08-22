@@ -16,14 +16,14 @@ Research
 
 * Unequal Health Impact of Gold Mining in the Brazilian Amazon (with Yifan (Flora) He, Jacqueline de Aguiar Barros, and Robert Heilmayr)
 
+  Small-scale and artisanal gold mining (ASGM) can degrade the environment and lead to a variety of negative health outcomes associated with mercury use and mosquito-borne diseases. Gold mining has been accelerating in the Brazilian Amazon in the past decade, raising concerns over its impact on population health, especially health of Indigenous peoples. Yet, no study has systematically documented the health impact of gold mining across the Brazilian Amazon, and causal evidence is lacking. In this study, we use an instrumental variable design with cluster LASSO variable selection to isolate the effect of gold mining on health. We find that gold mining increases malaria, dengue, and Zika prevalence among the general population. Gold mining negatively affect Indigenous populations in several indicators of newborn health, and the magnitude of impact increases with time. Mining has mixed impact on newborn health among the general population. Our results highlight the broad, long-lasting, and unequal health effects of gold mining in the Brazilian Amazon. We provide key evidence to guide policy interventions in regulating gold mining and addressing its health impacts.
+
 * Effects of Paraguay's Zero-Deforestation Policy (with Kendra Walker, Atahualpa Ayala, Lauren Sharwood, and Robert Heilmayr)
 
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+**Works in Progress**
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+* Forest fires and environmental law enforcement: Evidence from the Brazilian Amazon 
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+* Community Land-Use Consensus and Forest Outcomes (with Mark Buntaine, Yifan (Flora) He, Stuart Hamilton, and Marco Millones)
 
+Email: acostolapede@ucsb.edu
