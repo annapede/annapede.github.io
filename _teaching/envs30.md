@@ -1,4 +1,6 @@
 
 ## Week 1
 
-2. [test](/assets/Anna_Pede_CV_25-5.pdf)
+ [Class Notes](/assets/Anna_Pede_CV_25-5.pdf)
+
+ [Slides](/assets/Anna_Pede_CV_25-5.pdf)
