@@ -8,4 +8,7 @@ date: 2025-09-20
 location: "Santa Barbara, USA"
 ---
 
-Class notes will be added at the beginning of the fall quarter. 
+## Week 1
+
+2. [test](/assets/Anna_Pede_CV_25-5.pdf)
+
