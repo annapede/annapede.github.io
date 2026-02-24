@@ -8,6 +8,7 @@ date: 2025-09-20
 location: "Santa Barbara, USA"
 ---
 
+Here are some extra notes to help you with key class concepts.
 
 Notes on economic efficiency 
 ======
