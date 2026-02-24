@@ -9,9 +9,25 @@ location: "Santa Barbara, USA"
 ---
 
 
-# Week 1 - Week 2: Economic Efficiency 
+Notes on economic efficiency 
+======
 
- [Class Notes](/assets/Anna_Pede_CV_25-5.pdf)
+ [Week 2: Extra Class Notes](/assets/class_notes/Exercise_notes_1.pdf)
 
 
+Notes on VSL and discounting
+======
 
+ [Weeks 3 & 4: Extra Class Notes](/assets/class_notes/Exercise_notes_2.pdf)
+
+
+Notes on externalities and public goods
+====== 
+
+ [Weeks 6 & 7: Extra Class Notes](/assets/class_notes/Exercise_notes_4.pdf)
+
+
+Notes on performance standard versus cap-and-trade
+====== 
+
+ [Week 10: Extra Class Notes](/assets/class_notes/Exercise_notes_3.pdf)
