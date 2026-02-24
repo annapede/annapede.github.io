@@ -14,7 +14,7 @@ Research
 
 **Working Papers**
 
-* Effects of Paraguay's Zero-Deforestation Policy (with Kendra Walker, Atahualpa Ayala, Lauren Sharwood, and Robert Heilmayr)
+* Effects of Paraguay's Zero-Deforestation Policy (with Kendra Walker, Atahualpa Ayala, and Robert Heilmayr)
 
 Countries are increasingly banning deforestation in private lands. Although this is a seemingly beneficial policy for conservation, there is little evidence about the effectiveness of such bans. We study the impacts of Paraguay's zero-deforestation policy, a pioneer zero-deforestation commitment. Using a synthetic difference-in-differences approach, we find that the policy had null impacts on deforestation. A combination of policy forbearance and poor enforcement capacity drove the lackluster conservation impacts. 
 
