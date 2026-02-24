@@ -9,7 +9,7 @@ location: "Santa Barbara, USA"
 ---
 
 
-## Week 1 - Week 2: Economic Efficiency 
+# Week 1 - Week 2: Economic Efficiency 
 
  [Class Notes](/assets/Anna_Pede_CV_25-5.pdf)
 
