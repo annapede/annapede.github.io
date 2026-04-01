@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th-year Ph.D. Candidate at UCSB. I am interested in the economics of forest conservation and policy.
+I am a 5th-year PhD Candidate at the University of California, Santa Barbara. I am interested in the economics of forest conservation and policy.
 
 Research
 ======
