@@ -55,7 +55,7 @@ atom_feed:
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo_check.png"
+  avatar           : "anna_headshot.jpg"
   name             : "Anna Pede"
   pronouns         : "she/her"  
   bio              : "PhD Candidate"
